@@ -31,7 +31,7 @@ const themeConfigs = {
             main: '#f44336'
           },
           background: {
-            default: colors.grey['100']
+            default: colors.grey['400']
           }
         }
     return createTheme({
